@@ -1,0 +1,36 @@
+.box {
+
+    background-color:#CCDAE0 #EDF2F4 ;
+    background-image:radial-gradient(rgba) ;
+    background-position: center top;
+    
+}
+
+header {background-position:center
+    }
+
+h1 {background-color: #EF233C;
+    font-size:xx-large;
+    font-family: impact;
+
+}
+
+h3 {background-color:#2B2D42 ;
+    font-size: x-large;
+    font-style:dashed;
+
+}
+
+img { border: 1px, solid}
+
+
+}
+p{
+
+    border: 1px;
+    background-clip: border-box;
+}
+
+footer {
+    background-position: right;
+}
